@@ -4,7 +4,7 @@ metadata:
   name: podutils
   namespace: default
   labels:
-    k8s-app: fluentd-logging
+    k8s-app: pod-utility
 spec:
   selector:
     matchLabels:

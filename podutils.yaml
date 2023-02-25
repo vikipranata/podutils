@@ -9,7 +9,7 @@ spec:
     image: vikipranata/podutils:latest
     command:
       - sleep
-      - "3600"
+      - "infinity"
     imagePullPolicy: IfNotPresent
     resources:
       limits:
